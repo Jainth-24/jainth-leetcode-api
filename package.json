@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "It's a leetcode custom api",
   "main": "index.js",
+  "type": "module",
   "engines": {
     "node": "18.x"
   },
